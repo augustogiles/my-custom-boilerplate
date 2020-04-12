@@ -1,6 +1,6 @@
 # Custom boilerplate ⚛️
 
-This is my project of a react boilerplate based on [react-bolt blogpost](https://dev.to/leonardomso/a-complete-react-boilerplate-tutorialfrom-zero-to-hero-jig). This boilerplate was created to use in my projects and increment in according to the libs that I use besides webpack and babel.
+This is my react boilerplate project based on [react-bolt blogpost](https://dev.to/leonardomso/a-complete-react-boilerplate-tutorialfrom-zero-to-hero-jig). This boilerplate was created to use in my projects and increment in according to the libs that I use besides webpack and babel.
 
 ## Features
 
