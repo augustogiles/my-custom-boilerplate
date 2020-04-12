@@ -21,5 +21,12 @@ yarn install
 yarn start
 ```
 
+## Commands
+
+- `yarn start` - start the dev server
+- `yarn build` - create a production ready build in `dist` folder
+- `yarn lint` - execute an eslint check
+- `yarn lint:fix` - execute an eslint and fix the errors
+
 ## License
 [MIT License](LICENSE.md) Copyright (c) 2015-2019
