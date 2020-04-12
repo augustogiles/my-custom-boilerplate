@@ -1,11 +1,14 @@
 import React from 'react';
 import ReactDom from 'react-dom';
+import { BrowserRouter } from 'react-router-dom';
+import Main from './pages/main';
 
 const App = () => {
   return (
-    <h1>Hello from React</h1>
+    <BrowserRouter>
+      <Main />
+    </BrowserRouter>
   );
 };
 
 ReactDom.render(<App />, document.getElementById('root'));
-  
